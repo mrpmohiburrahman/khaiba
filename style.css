@@ -50,7 +50,7 @@ section{
 
 #aboutMeSection{
     display: flex;
-    background-image: url('/images/shapes/7.png');
+    background-image: url('/images/shapes/aboutMeBackGround.png');
 }
 #aboutMeSection img{
     width: 300px;
